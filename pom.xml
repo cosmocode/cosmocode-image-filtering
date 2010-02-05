@@ -10,21 +10,16 @@
   <parent>
     <groupId>de.cosmocode</groupId>
     <artifactId>cosmocode-parent</artifactId>
-    <version>1.2.2</version>
+    <version>1.3</version>
   </parent>
   <scm>
   	<developerConnection>scm:svn:http://commons.svn.cosmocode.de/cosmocode-image-filtering/trunk</developerConnection>
   </scm>
   <repositories>
   	<repository>
-  		<id>beaglesoft-repository</id>
-  		<name>BeagleSoft Repository</name>
-  		<url>https://dev.beaglesoft.de/maven/public</url>
-  	</repository>
-  	<repository>
-  		<id>cdk-taverna-repository</id>
-  		<name>CDK Taverna Repository</name>
-  		<url>http://www.cdk-taverna.de/m2/release_repository</url>
+  		<id>jboss</id>
+  		<name>JBoss</name>
+  		<url>http://repository.jboss.org/maven2</url>
   	</repository>
   </repositories>
   <dependencies>
@@ -49,13 +44,13 @@
   	</dependency>
   	<dependency>
   		<groupId>javax.media</groupId>
-  		<artifactId>jai_core</artifactId>
+  		<artifactId>jai-core</artifactId>
   		<version>1.1.3</version>
   	</dependency>
   	<dependency>
   		<groupId>com.sun.media</groupId>
-  		<artifactId>jai_codec</artifactId>
-  		<version>1.0.1</version>
+  		<artifactId>jai-codec</artifactId>
+  		<version>1.1.3</version>
   	</dependency>
   </dependencies>
 </project>
