@@ -4,7 +4,7 @@
   <groupId>com.cosmocode.image</groupId>
   <artifactId>cosmocode-image-filtering</artifactId>
   <packaging>jar</packaging>
-  <version>0.7.0.0</version>
+  <version>1.0-SNAPSHOT</version>
   <name>CosmoCode Image Filtering</name>
   <url>http://maven.apache.org</url>
   <parent>
