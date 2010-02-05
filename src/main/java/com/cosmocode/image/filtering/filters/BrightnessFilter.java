@@ -5,7 +5,6 @@ import com.cosmocode.image.filtering.ImageFilter;
 /**
  *
  * @version $Id: BrightnessFilter.java,v 1.1 2005/10/21 10:04:05 rademacher Exp $
- * @copy CosmoCode GmbH 2004; Contact: info@cosmocode.de
  */
 public class BrightnessFilter implements ImageFilter {
  

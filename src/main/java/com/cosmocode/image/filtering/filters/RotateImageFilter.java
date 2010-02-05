@@ -5,7 +5,6 @@ import com.cosmocode.image.filtering.ImageFilter;
 /**
  *
  * @version $Id: RotateImageFilter.java,v 1.2 2005/01/07 11:54:21 rademacher Exp $
- * @copy CosmoCode GmbH 2002; Contact: info@cosmocode.de
  */
 public class RotateImageFilter implements ImageFilter {
  

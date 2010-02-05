@@ -106,7 +106,6 @@ import com.cosmocode.image.filtering.filters.ScaleImageFilter;
  * </table>
  * 
  * @version $Id: FilterServlet.java,v 1.3 2005/01/05 12:03:19 rademacher Exp $
- * @copy CosmoCode GmbH 2004; Contact: info@cosmocode.de
  */
 public class FilterServlet extends HttpServlet {
  

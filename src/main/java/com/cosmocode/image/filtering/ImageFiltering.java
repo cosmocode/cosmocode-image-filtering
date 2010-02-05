@@ -3,7 +3,6 @@ package com.cosmocode.image.filtering;
 /**
  *
  * @version $Id: ImageFiltering.java,v 1.2 2004/02/23 11:57:41 rademacher Exp $
- * @copy CosmoCode GmbH 2002; Contact: info@cosmocode.de
  */
 public interface ImageFiltering  {
  

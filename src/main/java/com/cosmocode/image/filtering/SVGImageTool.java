@@ -18,7 +18,6 @@ import org.w3c.dom.NodeList;
 /**
  *
  * @version $Id: SVGImageTool.java,v 1.2 2005/05/18 09:50:36 rademacher Exp $
- * @copy CosmoCode GmbH 2004; Contact: info@cosmocode.de
  */
 public class SVGImageTool  {
  

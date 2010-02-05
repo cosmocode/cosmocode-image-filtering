@@ -9,8 +9,6 @@ import com.cosmocode.image.filtering.filters.ScaleImageFilter;
 
 /**
  *
- * @version $Id: FilterTool.java,v 1.4 2004/02/23 12:22:09 rademacher Exp $
- * @copy CosmoCode GmbH 2002; Contact: info@cosmocode.de
  */
 public class FilterTool  {
  

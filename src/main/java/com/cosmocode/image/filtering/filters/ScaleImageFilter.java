@@ -5,7 +5,6 @@ import com.cosmocode.image.filtering.ImageFilter;
 /**
  *
  * @version $Id: ScaleImageFilter.java,v 1.1.1.1 2004/02/19 14:37:31 rademacher Exp $
- * @copy CosmoCode GmbH 2002; Contact: info@cosmocode.de
  */
 public class ScaleImageFilter implements ImageFilter {
  

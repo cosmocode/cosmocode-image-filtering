@@ -33,7 +33,6 @@ import com.sun.media.jai.codec.TIFFEncodeParam;
 /**
  *
  * @version $Id: JAIImageFiltering.java,v 1.7 2006/05/30 15:27:26 rademacher Exp $
- * @copy CosmoCode GmbH 2002; Contact: info@cosmocode.de
  */
 public class JAIImageFiltering  implements ImageFiltering {
  
